@@ -165,18 +165,18 @@ module.exports = {
                                     '/dev/online/enhance/js/systemVariables',
                                 ]
                             },
-                            // {
-                            //     title: 'JAVA增强',
-                            //     path: '/dev/online/enhance/java/',
-                            //     collapsable: false,
-                            //     sidebarDepth: 0,
-                            //     children: [
-                            //         '/dev/online/enhance/java/import',
-                            //         '/dev/online/enhance/java/export',
-                            //         '/dev/online/enhance/java/query',
-                            //         '/dev/online/enhance/java/api',
-                            //     ]
-                            // },
+                            {
+                                title: 'JAVA增强',
+                                path: '/dev/online/enhance/java/',
+                                collapsable: false,
+                                sidebarDepth: 0,
+                                children: [
+                                    '/dev/online/enhance/java/import',
+                                    '/dev/online/enhance/java/export',
+                                    '/dev/online/enhance/java/query',
+                                    '/dev/online/enhance/java/api',
+                                ]
+                            },
                             {
                                 title: 'SQL增强',
                                 path: '/dev/online/enhance/sql/',
