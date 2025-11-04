@@ -14,3 +14,4 @@ jobs:
         BUILD_SCRIPT: yarn && yarn docs:build
         BUILD_DIR: docs/.vuepress/dist
         CNAME: https://docs.iresp.cn
+        NODE_OPTIONS: --openssl-legacy-provider
